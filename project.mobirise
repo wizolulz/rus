@@ -1,0 +1,322 @@
+{
+  "settings": {
+    "name": "NewSite-02-08_0612",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#eb6b56",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 11,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-0",
+          "_params": {
+            "imageSize": "65",
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2015-06-05-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "WELCOME TO <br>[EU] NUKE",
+          "text": "An European Rust community hand tailored&nbsp;<br>for your pleasure.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENTER</a>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#41a85f",
+              "border-color": "#41a85f"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-9",
+          "_params": {
+            "iconsBgColor": "#41a85f",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "clipboard",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "Forums",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Join to get all of the latest news and information about the servers.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "mic",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "Teamspeak",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Want your own clan room? Maybe you just wanna have a chat with the admins?<br>Join our teamspeak server.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Vote for [EU] Nuke",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Help our server grow by casting your vote.<br>You will also receive a gift as a reward<br>for your loyalty..",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "bargraph",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title4": "Leaderboards",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Check out who's winning! <br>Every wipe we give out donation kits <br>to all top 3 finishers.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            "UL": {
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            ".mbr-section__container .mbr-section-title SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "<span style=\"font-weight: normal;\">Donation store</span>",
+          "subtitle": " Packages for [EU] Nuke #1: ",
+          "label1": "HOT!",
+          "title1": "STANDARD",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "5",
+          "period1": "/mo.",
+          "description1": "Kit is valid for a period of 30 days<br>&nbsp;and can be reedemd after every wipe.",
+          "list1": "<p><span style=\"line-height: 1.5;\">20,000 Stone</span></p><p><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">20,000 Wood</span></p><div><br></div><div>6,000 Metal Fragments</div><div><br></div><div>8,000 Sulfur</div><div><br></div><div>20,000 Charcoal</div><div><br></div><div>1,000 High Quality Metal</div><div><br></div><div>2,000 Cloth</div><div><br></div><div>2,000 Leather</div><div><br></div><div>2,000 Animal Fat</div><div><br></div><div>1 Supply Signal</div><div><br></div><div>/bgrade 3 (Metal)</div><div><br></div><div>/sil (Place imags on signs)</div><p></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
+          "label2": "",
+          "title2": "BUSINESS",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "10",
+          "period2": "/mo.",
+          "description2": "Kit is valid for a period of 30 days<br> and can be reedemd after every wipe.<br>",
+          "list2": "30,000 Stone<div><br></div><div>30,000 Wood</div><div><br></div><div>8,000 Metal Fragments</div><div><br></div><div>12,000 Sulfur</div><div><br></div><div>25,000 Charcoal</div><div><br></div><div>1,500 High Quality Metal</div><div><br></div><div>3,000 Cloth</div><div><br></div><div>3,000 Leather</div><div><br></div><div>4,000 Animal Fat</div><div><br></div><div>1 Supply Signal</div><div><br></div><div>/bgrade 3 (Metal)</div><div><br></div><div>/sil (Place images on signs)</div>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
+          "label3": "HOT!",
+          "title3": "PREMIUM",
+          "subtitle3": "",
+          "currency3": "$",
+          "price3": "15",
+          "period3": "/mo.",
+          "description3": "Kit is valid for a period of 30 days<br>and can be reedemd after every wipe.",
+          "list3": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">90,000 Stone</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">90,000 Wood</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">25,000 Metal Fragments</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">45,000 Sulfur</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">90,000 Charcoal</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">10,000 High Quality Metal</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">10,000 Cloth</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">10,000 Leather</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">15,000 Animal Fat</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">1 Daily Supply Signal</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">/bgrade 3 &amp; 4 (Metal)(Armored)</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">/sil (Place images on signs)</span></ul><ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Daily kit /kit premdaily including Full gear, AK47 ,Semi Pistol &amp; ammo</span></ul><ul class=\"list-group list-group-flush\"><br></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "",
+          "currency4": "$",
+          "price4": "80",
+          "period4": "/yr.",
+          "description4": "Kit is valid for a period of 1 year<br>and can be reedemd after every wipe.<br>",
+          "list4": "90,000 Stone<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>90,000 Wood</div><div><br></div><div>25,000 Metal Fragments</div><div><br></div><div>45,000 Sulfur</div><div><br></div><div>90,000 Charcoal</div><div><br></div><div>10,000 High Quality Metal</div><div><br></div><div>10,000 Cloth</div><div><br></div><div>10,000 Leather</div><div><br></div><div>15,000 Animal Fat</div><div><br></div><div>1 Daily Supply Signal</div><div><br></div><div>/bgrade 3 &amp; 4 (Metal)(Armored)</div><div><br></div><div>/sil (Place images on signs)</div><div><br></div><div>Daily kit /kit premdaily including Full gear, AK47 ,Semi Pistol &amp; ammo</div>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>"
+        }
+      ]
+    }
+  }
+}
